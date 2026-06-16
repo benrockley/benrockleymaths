@@ -212,3 +212,7 @@ footer {
     color: #003366;
     text-align: right;
 }
+
+nav {
+    transition: transform 0.3s ease;
+}
